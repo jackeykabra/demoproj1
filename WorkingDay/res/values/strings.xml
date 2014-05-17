@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Working Days Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="DaysStartDateBtn">What\'s the date xx days from a starting date? <!-- (This count weekends and public holidays as non-working Days) -->
+    </string>
+    <string name="DaysBtTwoDatesBtn">How many Working Days are there between two dates? <!-- (This counts weekends and public holidays as non working days) -->
+    </string>
+    <string name="StartWithEndDateBtn">Starting with the end date, work backwards by xx days to find the starting date <!-- (This count weekends and public holidays as non-working Days) -->
+    </string>
+    <string name="textSettingInfo">The default for all options above counts weekends &amp; public holidays as non working days. Go to settings to include weekends as working days, include your own holidays as non working days or to change the country</string>
+    <string name="SettingBtn">Settings</string>
+    <string name="BackBtn">&lt;&lt; Back</string>
+    <string name="EnterStartDateTextView">Enter start date</string>
+    <string name="EnterDaysTextview">Enter number of days</string>
+    <string name="ResultTextview">Result</string>
+    <string name="EnterEndDateTextview">Enter end date</string>
+    <string name="Enterenddatetextview">Enter end date</string>
+    <string name="EnterWorkingdaysTextview">Enter number of working days</string>
+    <string name="Settingtextview">Settings-Configure which Country\'s Public holidays to use </string>
+    <string name="SelectCountryTextview">Select country</string>
+    <string name="EnglendTextview">England &amp; Wales</string>
+    <string name="ToggleBtn" />
+    <string name="Scotlandtextview">Scotland</string>
+    <string name="ToggleBtn2" />
+    <string name="Northerntextview">Northern Ireland</string>
+    <string name="ToggleBtn3" />
+    <string name="Republictextview">Ireland</string>
+    <string name="Togglebtn4" />
+    <string name="USATextview">USA</string>
+    <string name="Togglebtn5" />
+    <string name="countsaturdaystextview">Count Saturdays as a Working Day</string>
+    <string name="Togglebtn6" />
+    <string name="CountSundayTextview">Count Sundays as a Working Day</string>
+    <string name="Togglebtn7" />
+    <string name="countholidaytextview">Count Your Holidays dates as non working Days</string>
+    <string name="togglebtn8" />
+    <string name="EnterHolidaystextview">Enter Your Holidays dates as non working Days </string>
+    <string name="caltextview">Calculate Working Days</string>
+    <string name="customholiday">Enter your holiday dates as Non Working Days </string>
+
+</resources>
